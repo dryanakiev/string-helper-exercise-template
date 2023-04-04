@@ -1,4 +1,4 @@
-# string-helper-exercise-template
+# string-helper-exercise
 
 Write a StringHelper class that contains a method called Reverse that takes a string as input and returns the reversed version of the string. The StringHelper class should also contain a method called IsPalindrome that takes a string as input and returns a boolean value indicating whether the input string is a palindrome or not.
 
